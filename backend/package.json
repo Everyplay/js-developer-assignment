@@ -1,0 +1,25 @@
+{
+  "name": "everyplay-js-developer-assignment-backend",
+  "version": "0.0.1",
+  "description": "JS Developer test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "serverbone"
+  ],
+  "author": "Mikko Lehtinen <mikkol@unity3d.com>",
+  "license": "MIT",
+  "dependencies": {
+    "backbone-db": "~0.4",
+    "serverbone": "~0.2",
+    "express": "~4.1.1",
+    "body-parser": "~1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.18",
+    "chai": "~1.9.1",
+    "sinon": "~1.9.1"
+  }
+}
