@@ -14,7 +14,7 @@ backend
 
     node app.js
 
-## Test
+## Usage examples
 
 Create user:
 

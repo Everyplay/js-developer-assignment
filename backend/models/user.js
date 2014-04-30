@@ -37,10 +37,12 @@ var User = serverbone.models.ACLModel.extend({
    * addRoles
    *
    * This function should be implemented.
+   *
+   * Roles are unique, thus adding same role twice should not add it to roles twice.
    * Usage:
    * addRoles('a') -> adds role 'a'
    * addRoles('b', 'c') -> adds roles 'b' & 'c'
-   * addRoles(['d', 'e']) -> adds roles 'd' & 'e'
+   * addRoles(['c', 'd', 'e']) -> adds roles 'd' & 'e'
    */
 });
 

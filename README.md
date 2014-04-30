@@ -19,6 +19,7 @@ How would you validate that user is logging in with the correct password? Implem
 Implement `addRoles` function according to specification in the User model code.
 
 ### 4. Don't allow creating user with existing username
+Creating users with existing username should result to error `Username xx is already taken`.
 
 ### 5. ACL
 When listing users with
