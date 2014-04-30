@@ -1,11 +1,11 @@
 # Instructions
 Return your answer as zip-file containing all the relevant files. 
 
-There's no 'correct' answer for these assignments, but you should show your best skills. Elegant solutions gain extra points.
+There's no single 'correct' answer for these assignments, but the goal is to allow you to demonstrate your JS skills. Elegant solutions gain extra points.
 
 # Backend assignment
 
-In the `backend` folder you can find a skeleton for a simple app. This assignment requires you to modify and add code as needed. You should also add test cases for each of the questions when you think that's appropriate.
+In the `backend` folder you can find skeleton for a simple app. These assignments requires you to modify and add code as needed. You should also add test cases for each of the questions when you think that's appropriate.
 
 ### 1. Password saving
 
