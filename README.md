@@ -5,7 +5,7 @@ There's no single 'correct' answer for these assignments, but the goal is to all
 
 # Backend assignment
 
-In the `backend` folder you can find skeleton for a simple app. These assignments requires you to modify and add code as needed. You should also add test cases for each of the questions when you think that's appropriate.
+In the `backend` folder you can find a skeleton for a simple app. These assignments require you to modify and add code as needed. You should also add test cases when you think that's appropriate.
 
 ### 1. Password saving
 
