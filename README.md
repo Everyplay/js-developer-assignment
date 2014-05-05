@@ -1,5 +1,5 @@
 # Instructions
-Return your answer as zip-file containing all the relevant files. 
+Clone this repository and return your answer as zip-file containing all the relevant files (including .git, no that we can see your commit history). 
 
 There's no single 'correct' answer for these assignments, but the goal is to allow you to demonstrate your JS skills. Elegant solutions gain extra points.
 
