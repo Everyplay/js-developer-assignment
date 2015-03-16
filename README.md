@@ -1,5 +1,5 @@
 # Instructions
-Clone this repository and return your answer as zip-file containing all the relevant files (including .git, so that we can see your commit history). 
+Clone this repository and return your answer as zip-file containing all the relevant files (including .git, so that we can see your commit history). DO NOT fork this repo.
 
 There's no single 'correct' answer for these assignments, but the goal is to allow you to demonstrate your JS skills. Elegant solutions gain extra points.
 
@@ -15,13 +15,10 @@ Make sure that users are stored in the database in a safe way. How would you sto
 
 How would you validate that user is logging in with the correct password? Implement the function `checkPassword` according to specification in the User model code.
 
-### 3. addRoles function
-Implement `addRoles` function according to specification in the User model code.
-
-### 4. Don't allow creating user with existing username
+### 3. Don't allow creating user with existing username
 Creating users with existing username should result to error `Username xx is already taken`.
 
-### 5. ACL
+### 4. ACL
 When listing users with
 
 			GET /users
