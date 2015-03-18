@@ -1,7 +1,7 @@
 # Instructions
 Clone this repository and return your answer as zip-file containing all the relevant files (including .git, so that we can see your commit history). DO NOT fork this repo.
 
-There's no single 'correct' answer for these assignments, but the goal is to allow you to demonstrate your JS skills. Elegant solutions gain extra points.
+There's no single 'correct' answer for these assignments, but elegant solutions gain extra points. The point of this exercise is to prove that you can learn unknown and rather poorly documented codebase and allow you to demonstrate your JS skills.
 
 # Backend assignment
 
